@@ -1,0 +1,16 @@
+{
+  "name": "cfbp",
+  "version": "1.0.0",
+  "description": "CarbonFootprint blockchain project",
+  "main": "Interface.js",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0",
+    "console-table-printer": "^2.10.0",
+    "inquirer": "^8.2.0",
+    "quorum-js": "^0.3.6",
+    "solc": "^0.8.11",
+    "web3": "^1.7.0"
+  },
+  "author": "Gruppo 6",
+  "license": "ISC"
+}
