@@ -4,7 +4,7 @@
   "description": "CarbonFootprint blockchain project",
   "main": "Interface.js",
   "dependencies": {
-    "@openzeppelin/contracts": "^4.5.0",
+    "@openzeppelin/contracts": "^4.9.6",
     "console-table-printer": "^2.10.0",
     "inquirer": "^8.2.0",
     "quorum-js": "^0.3.6",
